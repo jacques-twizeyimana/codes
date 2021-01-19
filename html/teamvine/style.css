@@ -1,0 +1,30 @@
+@import url('./fonts/Poppins/Poppins-Medium.ttf');
+@import url('./fonts/Roboto/Roboto-Medium.ttf');
+@import url('./fonts/Poppins/Poppins-Light.ttf');
+@import url('./fonts/Roboto/Roboto-Light.ttf');
+
+*{
+    box-sizing: border-box;
+}
+html,body{
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: white;
+}
+.navbar,.page-footer{
+    background-color: rgba(6, 6, 66, 0.767);
+    width: 100% !important;
+}
+.navbar-brand{
+    color:white !important;
+    font-size: 22px;
+}
+.nav-link{
+    color: rgba(243, 243, 243, 0.815) !important;
+    font-size: 18px;
+}
+
+ol li{
+    list-style: none;
+}
