@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Comfortaa:100|Manjari:100,400|Poppins:200&display=swap');
+        h2{
+            font-family: 'Comfortaa', cursive;
+            font-size: 24px;
+            padding: 0px 20px ;
+        }
+        p{
+            font-weight: 100;
+            font-size: 17px;
+            padding: 20px;
+        }
+        .manjari{
+            font-family: 'Manjari', sans-serif;
+        }
+        .popins{
+            font-family: 'Poppins', sans-serif;
+        }
+        .comfortaa{
+            font-family: 'Comfortaa', cursive;
+        }
+        .flex-box{
+          display: flex;
+          flex-wrap: wrap;
+        }
+        .flex-box .flex-item{
+          width:100%;
+          /* max-width: 100%; */
+          margin-bottom: 50px;
+        }
+        .inline-block{
+          display: block;
+          max-width: 100%;
+
+        }
+        .root{
+          width:360px;
+          border:1px solid #ccc;
+          padding:5px;
+          background-color: #f1f1f1;
+          margin:0 auto;
+          border-radius: 10px;
+        }
+        body{
+          background-color: black;
+        }
+        @media  and (max-width:600px) {
+          .flex-box .flex-item{
+            width: 100%;
+          }
+        }
+    </style>
+</head>
+<body>
+  <div class="root">
+    <div class="bd-wish flex-box">
+      <div class="flex-item">
+        <img src="../../../Pictures/img/hp-bd.jpg" class="inline-block" alt="">
+      </div>
+      <div class="flex-item">
+        <h2>Birthday wishes</h2>
+        <p class="popins">Let yourself do everything that you like most in life, may your Big Day be cheerful and happy! Wishing you the abundance of fun and glory, Happy Birthday! May this day be so happy that smile never fades away from your face. On your birthday friends wish you many things, but I will wish you only two: always and never.</p>
+      </div>
+    </div>
+
+    <div class="month-wish flex-box">
+      <div class="flex-item">
+        <h2>Happy new month wishes</h2>
+        <p class="manjari">Finally, a new month. Another opportunity to achieve your goals and  make an important decision.Don’t waist it. Use every day of this month to make a difference. I believe in you, sister.As you know the big journey begins with one tiny step. Let this month be the beginning of something huge and amazing that will change your life. That will change the world. Wishing you a lot of strength and inspiration.Happy new month!!!</p>
+      </div>
+      <div class="flex-item">
+        <img src="../../../Pictures/img/hp-bd.jpg" class="inline-block" alt="">
+      </div>
+    </div>
+
+    <div class="year-wish flex-box">
+      <div class=" flex-item">
+        <h2>Happy new year wishes</h2>
+        <p class="comfortaa">
+            You came into my life to put an end to all my sufferings and bad times. Today, I am happier than the happiest man in the world. Happy new year darling!
+            You are undoubtedly the best human being that I ever met in life. There are so many things to learn from you. Wishing you a wonderful year ahead!
+        </p>
+      </div>
+      <div class=" flex-item">
+        <img src="../../../Pictures/img/happy-new-month.jpg" class="inline-block" alt="">
+      </div>
+    </div>
+    <div class="" style="margin-top:-50px">
+    </div>
+  </div>
+</body>
+</html>
