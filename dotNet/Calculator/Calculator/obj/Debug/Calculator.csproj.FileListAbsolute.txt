@@ -1,0 +1,9 @@
+C:\Users\Sandberg\Documents\dotNet\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Sandberg\Documents\dotNet\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Sandberg\Documents\dotNet\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Sandberg\Documents\dotNet\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Sandberg\Documents\dotNet\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Sandberg\Documents\dotNet\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Sandberg\Documents\dotNet\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Sandberg\Documents\dotNet\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Sandberg\Documents\dotNet\Calculator\Calculator\obj\Debug\Calculator.calculatorForm.resources

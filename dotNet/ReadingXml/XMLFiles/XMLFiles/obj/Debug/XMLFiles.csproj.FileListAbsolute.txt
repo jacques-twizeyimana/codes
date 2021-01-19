@@ -1,0 +1,9 @@
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\XMLFiles\XMLFiles\bin\Debug\XMLFiles.exe.config
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\XMLFiles\XMLFiles\bin\Debug\XMLFiles.exe
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\XMLFiles\XMLFiles\bin\Debug\XMLFiles.pdb
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\XMLFiles\XMLFiles\obj\Debug\XMLFiles.csprojAssemblyReference.cache
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\XMLFiles\XMLFiles\obj\Debug\XMLFiles.XmlFiles.resources
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\XMLFiles\XMLFiles\obj\Debug\XMLFiles.Properties.Resources.resources
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\XMLFiles\XMLFiles\obj\Debug\XMLFiles.csproj.GenerateResource.cache
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\XMLFiles\XMLFiles\obj\Debug\XMLFiles.exe
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\XMLFiles\XMLFiles\obj\Debug\XMLFiles.pdb

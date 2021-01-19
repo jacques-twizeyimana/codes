@@ -1,0 +1,9 @@
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\StudentsDB\StudentsDB\bin\Debug\StudentsDB.exe.config
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\StudentsDB\StudentsDB\bin\Debug\StudentsDB.exe
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\StudentsDB\StudentsDB\bin\Debug\StudentsDB.pdb
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\StudentsDB\StudentsDB\obj\Debug\StudentsDB.csprojAssemblyReference.cache
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\StudentsDB\StudentsDB\obj\Debug\StudentsDB.StudentForm.resources
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\StudentsDB\StudentsDB\obj\Debug\StudentsDB.Properties.Resources.resources
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\StudentsDB\StudentsDB\obj\Debug\StudentsDB.csproj.GenerateResource.cache
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\StudentsDB\StudentsDB\obj\Debug\StudentsDB.exe
+C:\Users\Sandberg\Documents\dotNet\ReadingXml\StudentsDB\StudentsDB\obj\Debug\StudentsDB.pdb

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<School>
+  <Student>
+    <Student_id>1</Student_id>
+    <FirstName>Sandberg</FirstName>
+    <LastName>Smith</LastName>
+    <Student_age>20</Student_age>
+    <Student_class>B</Student_class>
+  </Student>
+  <Student>
+    <Student_id>2</Student_id>
+    <FirstName>Manzi</FirstName>
+    <LastName>Mike</LastName>
+    <Student_age>30</Student_age>
+    <Student_class>B</Student_class>
+  </Student>
+  <Student>
+    <Student_id>3</Student_id>
+    <FirstName>Manzi</FirstName>
+    <LastName>Gustave</LastName>
+    <Student_age>18</Student_age>
+    <Student_class>B</Student_class>
+  </Student>
+  <Student>
+    <Student_id>4</Student_id>
+    <FirstName>Iradukunda</FirstName>
+    <LastName>Best Verite</LastName>
+    <Student_age>20</Student_age>
+    <Student_class>B</Student_class>
+  </Student>
+  <Student>
+    <Student_id>5</Student_id>
+    <FirstName>Mukunzi</FirstName>
+    <LastName>Christian</LastName>
+    <Student_age>1</Student_age>
+    <Student_class>NaN</Student_class>
+  </Student>
+  <Student>
+    <Student_id></Student_id>
+    <FirstName>Hanson</FirstName>
+    <LastName>Peace</LastName>
+    <Student_age>10</Student_age>
+    <Student_class>B</Student_class>
+  </Student>
+</School>
