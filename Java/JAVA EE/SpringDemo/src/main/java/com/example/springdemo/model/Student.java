@@ -1,5 +1,7 @@
 package com.example.springdemo.model;
 
+import com.example.springdemo.services.dtos.StudentDto;
+
 import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
@@ -57,6 +59,15 @@ public class Student {
         this.email = email;
         this.year = year;
         this.className = className;
+    }
+
+    public Student(StudentDto dto) {
+    }
+
+    public Student(String firstName, String lastName, String gender) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.gender = gender;
     }
 
     public int getId() {
