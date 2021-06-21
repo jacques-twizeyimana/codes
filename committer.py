@@ -28,7 +28,7 @@ class DirectoryWalker:
                 return fullname
 
 def commit(filename):
-    os.system('git add ' +filename)
+    os.system('git add "' +filename +'"')
     os.system('git commit -m "add ' + filename + '"')
 
 def push():    
@@ -39,7 +39,7 @@ def main():
     for file in DirectoryWalker(os.path.abspath('.')):
         file = file.replace(directory,"")
         commit(file)
-    push()
+        push()
 
 
 if __name__=='__main__':
