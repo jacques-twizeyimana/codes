@@ -1,2 +1,5 @@
-package com.test;public class Common {
+package com.test;
+
+public class Common extends Thread{
+
 }

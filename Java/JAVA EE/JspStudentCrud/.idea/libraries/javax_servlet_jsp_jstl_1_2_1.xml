@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="javax.servlet.jsp.jstl-1.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/javax.servlet.jsp.jstl-1.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.servlet.jsp.jstl-api-1.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jsp-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jstl-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/el-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-5.1.49.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/jstl-api-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

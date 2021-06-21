@@ -14,6 +14,7 @@ import org.springframework.context.annotation.Primary;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 
+@Service
 public class StudentServiceImpl implements StudentService {
     private final Logger log = LoggerFactory.getLogger(Student.class);
     //@Autowired
