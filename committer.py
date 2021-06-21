@@ -29,7 +29,7 @@ class DirectoryWalker:
 
 def commit(filename):
     os.system('git add ' +filename)
-    os.system('git commit -a "add ' + filename + '"')
+    os.system('git commit -m "add ' + filename + '"')
 
 def push():    
     os.system('git push origin main')
