@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/DELL/Documents/codes/cpp/linked-lists/circular-linked-list.cpp
+iostream
+-
+
+C:/Users/DELL/Documents/codes/cpp/linked-lists/display.cpp
+iostream
+-
+
+C:/Users/DELL/Documents/codes/cpp/linked-lists/main.cpp
+iostream
+-
+cstring
+-
+
+C:/Users/DELL/Documents/codes/cpp/linked-lists/routes.cpp
+iostream
+-
+
