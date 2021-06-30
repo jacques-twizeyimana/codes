@@ -6,7 +6,8 @@ import java.io.DataOutputStream;
 import java.io.InputStreamReader;
 import java.net.Socket;
 
-public class Client {
+public class
+Client {
     public static void main(String[] args)throws Exception {
         try {
             Socket socket = new Socket("localhost",8090);
